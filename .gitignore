@@ -1,7 +1,10 @@
-# Image files
+# Image/Video files
 *.png
 *.jpg
 *.jpeg
+*.gif
+*.avi
+*.mp4
 
 # Text files
 *.txt
