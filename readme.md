@@ -1,7 +1,7 @@
 # Falling Elliptical Cylinder Simulation using LBM
 
 A MATLAB implementation of the Lattice Boltzmann Method (LBM) to simulate the motion of an elliptical cylinder falling under gravity in a channel. The simulation captures both translational and rotational motion of the cylinder while considering fluid-structure interaction.
-
+![Animation](lbm.gif)
 ## Features
 
 - D2Q9 Lattice Boltzmann Method implementation
